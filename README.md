@@ -13,6 +13,7 @@ This project focuses on predicting house prices in King County (Seattle and surr
 ---
 
 ## 📊 **Dataset Overview**
+Credits to "Mina Sameh55" creator of dataset that you can find in: https://www.kaggle.com/datasets/minasameh55/king-country-houses-aa
 The dataset contains **21,613 rows** and the following key columns:
 
 | Column            | Description                                         |
